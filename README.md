@@ -13,7 +13,7 @@ Me considero completamente autodidacta. Cuando algo me interesa, no lo aprendo p
 
 Esa forma de aprender me ha llevado a dominar desde lógica de programación y arquitectura de software hasta conceptos de ciberseguridad, automatización de procesos e integración de APIs.
 
-Siempre estoy al tanto de las nuevas tecnologías y tendencias del mundo tech. No para seguir modas, sino para evaluar qué tiene valor real y qué no. 🔍
+Siempre estoy al tanto de las nuevas tecnologías y tendencias del mundo tech. No para seguir modas, sino para evaluar qué tiene valor real y qué no.
 
 ---
 
@@ -23,9 +23,9 @@ Uso **Claude Code** como motor principal de desarrollo, conectado con otras herr
 
 Pero antes de escribir una sola línea de código, tengo claro el esquema completo — cómo funciona cada componente, qué hace, qué no debe hacer, y cuáles son las implicaciones de seguridad de cada decisión.
 
-Las bases de la programación las tengo sólidas. Y eso importa muchísimo, porque sin bases, cualquier herramienta se convierte en una caja negra que nadie controla. 🧱
+Las bases de la programación las tengo sólidas. Y eso importa muchísimo, porque sin bases, cualquier herramienta se convierte en una caja negra que nadie controla. 
 
----
+--
 
 ## 🤖 La IA como herramienta y no como reemplazo
 
@@ -33,23 +33,23 @@ Hay una conversación que se repite constantemente en el mundo tech.
 
 Mucha gente cree que usar IA para programar...
 
-- 🚫 Quita pensamiento crítico
-- 🚫 Genera dependencia tecnológica
-- 🚫 Produce código inseguro que nadie entiende
-- 🚫 Reduce la comprensión real de los problemas
-- 🚫 Hace que el desarrollador pierda sus capacidades con el tiempo
+-  Quita pensamiento crítico
+-  Genera dependencia tecnológica
+-  Produce código inseguro que nadie entiende
+-  Reduce la comprensión real de los problemas
+-  Hace que el desarrollador pierda sus capacidades con el tiempo
 
-**Y tienen razón — así es cuando se usa sin criterio.**
+**Y tienen razón  así es cuando se usa sin criterio.**
 
 Yo lo veo diferente. Cuando se usa con estructura, con buenas prácticas y con conocimiento real de lo que está pasando por debajo, la IA permite...
 
-- ✅ Ahorrar horas de trabajo repetitivo
-- ✅ Mantener consistencia en proyectos grandes
-- ✅ Enfocarse en arquitectura y lógica de alto nivel
-- ✅ Escalar soluciones que antes tomarían meses
-- ✅ Aplicar estándares de ciberseguridad desde el inicio
+-  Ahorrar horas de trabajo repetitivo
+-  Mantener consistencia en proyectos grandes
+-  Enfocarse en arquitectura y lógica de alto nivel
+-  Escalar soluciones que antes tomarían meses
+-  Aplicar estándares de ciberseguridad desde el inicio
 
-En mi flujo de trabajo, **yo defino el esquema, la lógica, las restricciones y las buenas prácticas.** Las herramientas ejecutan dentro de ese marco. El pensamiento crítico no desaparece — se redirige hacia lo que realmente tiene impacto. 🎯
+En mi flujo de trabajo, **yo defino el esquema, la lógica, las restricciones y las buenas prácticas.** Las herramientas ejecutan dentro de ese marco. El pensamiento crítico no desaparece  se redirige hacia lo que realmente tiene impacto. 
 
 ---
 
@@ -88,18 +88,9 @@ Estoy abierto a colaborar con...
 
 Lo que ofrezco en cualquier caso...
 
-- 🔹 Trabajo freelance puntual para proyectos concretos
-- 🔹 Proyectos a largo plazo donde pueda aportar de forma continua
-- 🔹 Trabajo remoto con empresas que necesiten un desarrollador confiable
+-  Trabajo freelance puntual para proyectos concretos
+-  Proyectos a largo plazo donde pueda aportar de forma continua
+-  Trabajo remoto con empresas que necesiten un desarrollador confiable
 
-Si tienes un proyecto en mente, hablemos. 👇
-
----
-
-<div align="center">
-
-*Construyendo con propósito. Programando con criterio.*
-
-[magnusrise.cl](https://magnusrise.cl)
-
-</div>
+Si tienes un proyecto en mente, hablemos. 
+Contactame a mi  WhatsApp: +56 9 2389 8591
